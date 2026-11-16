@@ -27,4 +27,3 @@
 - **Orchestration & Workflows:** `n8n` • `Make.com` • `REST APIs` • `Webhooks`
 - **AI & Data Pipelines:** `OpenAI / LLM Prompt Chaining` • `Python` • `JSON Schemas`
 - **Philosophy:** *Why spend 5 hours on manual busy-work when an autonomous pipeline can execute it in 5 seconds?*
-- 
